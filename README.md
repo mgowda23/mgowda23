@@ -2,7 +2,7 @@
 
 Software engineer in New York. I build backend services, data pipelines, and ML-backed applications.
 
-At **ITC Infotech** (2.5 years) I shipped Java Spring Boot microservices, Node.js APIs, and Snowflake ETL for a hospitality loyalty platform supporting **500,000+ members**, including a routing layer that handled **2,000+ requests/second**. I completed an **M.S. in Computer Science** at Binghamton University in May 2026.
+At **ITC Infotech** (2.5 years) I built backend services, Python, APIs, and Snowflake ETL for a hospitality loyalty platform supporting **500,000+ members**, including a routing layer that handled **2,000+ requests/second**. I completed an **M.S. in Computer Science** at Binghamton University in May 2026.
 
 Open to Software Engineer, Backend, Data, and Full-Stack roles.
 
@@ -21,9 +21,9 @@ Open to Software Engineer, Backend, Data, and Full-Stack roles.
 
 ## Stack
 
-**Languages:** Python, Java, SQL, TypeScript, JavaScript, Swift  
-**Backend:** Spring Boot, Node.js / Express, Flask, REST, Kafka, JWT  
-**Data:** Snowflake, dbt, Airflow, PostgreSQL, MongoDB, Pandas  
+**Languages:** Python, Java, SQL, TypeScript, JavaScript, Swift, C, C++
+**Backend:** FastAPI, Django, Spring Boot, Node.js / Express, Flask, REST, Kafka, JWT
+**Data:** Snowflake, dbt, Airflow, PostgreSQL, MongoDB, Pandas, PySpark
 **ML / AI:** TensorFlow / Keras, Scikit-learn, OpenAI, NLP  
 **Cloud / DevOps:** AWS (S3, EKS, IAM), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
 

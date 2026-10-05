@@ -2,7 +2,7 @@
 
 Software engineer in New York. I build backend services, data pipelines, and ML-backed applications.
 
-At **ITC Infotech** (2.5 years) I built backend services, Python, APIs, and Snowflake ETL for a hospitality loyalty platform supporting **500,000+ members**, including a routing layer that handled **2,000+ requests/second**. I completed an **M.S. in Computer Science** at Binghamton University in May 2026.
+At **ITC Infotech** (2.5 years) I built backend services, Java, SpringBoot, Python, APIs, and Snowflake ETL for a hospitality loyalty platform supporting **500,000+ members**, including a routing layer that handled **2,000+ requests/second**. I completed an **M.S. in Computer Science** at Binghamton University in May 2026.
 
 Open to Software Engineer, Backend, Data, and Full-Stack roles.
 
